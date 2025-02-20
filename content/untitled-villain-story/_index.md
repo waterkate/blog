@@ -4,3 +4,4 @@ draft = false
 title = 'Untitled Villain Story'
 menu = 'main'
 +++
+the villain perspective from my friend May's unnamed hero story based on a prompt we came up with together on via a bluesky thread. very short, not very good. enjoy!
