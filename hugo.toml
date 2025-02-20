@@ -1,4 +1,4 @@
-baseURL = 'https://blog.wtrkt.xyz/'
+baseURL = 'https://waterkate.github.io/blog/'
 theme = 'hugo-bearblog'
 title = "Kate's blog"
 author = "Kate Elliott"
