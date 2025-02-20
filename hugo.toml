@@ -1,0 +1,5 @@
+baseURL = 'https://blog.wtrkt.xyz/'
+theme = 'hugo-bearblog'
+title = "Kate's blog"
+author = "Kate Elliott"
+languageCode = 'en-us'
